@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=22&pause=1200&color=EC4899&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Jana+%F0%9F%8C%B8;Computer+Science+%40+University+%F0%9F%92%BB;Cybersecurity+Major+%F0%9F%94%90;Breaking+things+%26+making+them+safer+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=22&pause=1200&color=EC4899&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Jana+%F0%9F%8C%B8;Computer+Science+%40+AAST+%F0%9F%92%BB;Cybersecurity+Major+%F0%9F%94%90;Breaking+things+%26+making+them+safer+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,6 +26,7 @@
 class Jana(Angel):
 
     name        = "Jana Ashraf"
+    university  = "Arab Academy For Science, Technology & Maritime Transport (AAST)"
     field       = "Computer Science"
     major       = "Cybersecurity 🔐"
     status      = "Turning coffee into secure code ☕"
