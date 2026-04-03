@@ -23,7 +23,7 @@
 ## 🌸 About Me
 
 ```python
-class Jana(HumanBeing):
+class Jana(Angel):
 
     name        = "Jana Ashraf"
     field       = "Computer Science"
