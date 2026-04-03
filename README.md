@@ -76,15 +76,15 @@ class Jana(Angel):
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JanaAshraf&show_icons=true&theme=radical&bg_color=fff0f6&title_color=ec4899&icon_color=c084fc&text_color=9d174d&border_color=f9a8d4&border_radius=15&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Janaashraf992&show_icons=true&theme=radical&bg_color=fff0f6&title_color=ec4899&icon_color=c084fc&text_color=9d174d&border_color=f9a8d4&border_radius=15&hide_border=false" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanaAshraf&layout=compact&theme=radical&bg_color=fff0f6&title_color=ec4899&text_color=9d174d&border_color=f9a8d4&border_radius=15" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janaashraf992&layout=compact&theme=radical&bg_color=fff0f6&title_color=ec4899&text_color=9d174d&border_color=f9a8d4&border_radius=15" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JanaAshraf&theme=pink-ribbon&background=FFF0F6&ring=EC4899&fire=C084FC&currStreakLabel=EC4899&border=F9A8D4&border_radius=15" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Janaashraf992&theme=pink-ribbon&background=FFF0F6&ring=EC4899&fire=C084FC&currStreakLabel=EC4899&border=F9A8D4&border_radius=15" />
 
 </div>
 
@@ -95,7 +95,7 @@ class Jana(Angel):
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jana_Ashraf-pink?style=for-the-badge&logo=linkedin&logoColor=white&color=c084fc)](https://www.linkedin.com/in/janaaashraf/)
-[![GitHub](https://img.shields.io/badge/GitHub-@JanaAshraf-pink?style=for-the-badge&logo=github&logoColor=white&color=ec4899)](https://github.com/JanaAshraf)
+[![GitHub](https://img.shields.io/badge/GitHub-@Janaashraf992-pink?style=for-the-badge&logo=github&logoColor=white&color=ec4899)](https://github.com/Janaashraf992)
 [![Email](https://img.shields.io/badge/Email-Say_Hi!-pink?style=for-the-badge&logo=gmail&logoColor=white&color=f472b6)](mailto:x.janaashrafali.x@gmail.com)
 
 </div>
@@ -104,7 +104,7 @@ class Jana(Angel):
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=JanaAshraf&color=f9a8d4&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Janaashraf992&color=f9a8d4&style=for-the-badge&label=Profile+Views" />
 
 *🌸 Thanks for visiting my little corner of GitHub! Don't forget to star something cute 🌸*
 
