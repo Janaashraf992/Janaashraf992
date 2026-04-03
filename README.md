@@ -93,9 +93,9 @@ class Jana(Angel):
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jana_Ashraf-pink?style=for-the-badge&logo=linkedin&logoColor=white&color=c084fc)](https://linkedin.com/in/JanaAshraf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jana_Ashraf-pink?style=for-the-badge&logo=linkedin&logoColor=white&color=c084fc)](https://www.linkedin.com/in/janaaashraf/)
 [![GitHub](https://img.shields.io/badge/GitHub-@JanaAshraf-pink?style=for-the-badge&logo=github&logoColor=white&color=ec4899)](https://github.com/JanaAshraf)
-[![Email](https://img.shields.io/badge/Email-Say_Hi!-pink?style=for-the-badge&logo=gmail&logoColor=white&color=f472b6)](mailto:jana@email.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hi!-pink?style=for-the-badge&logo=gmail&logoColor=white&color=f472b6)](mailto:x.janaashrafali.x@gmail.com)
 
 </div>
 
